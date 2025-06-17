@@ -62,7 +62,7 @@ export default function ContatoPage() {
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
                   <p className="text-gray-600 text-sm">
-                    info@aweliteshielding.com
+                    info@aweliteprotection.com
                   </p>
                 </div>
               </div>
@@ -86,7 +86,10 @@ export default function ContatoPage() {
                   <h3 className="text-lg font-semibold text-gray-900">
                     Telefone
                   </h3>
-                  <p className="text-gray-600 text-sm">+1 (555) 123-4567</p>
+                  <p className="text-gray-600 text-sm">
+                    {" "}
+                    +244 924 751 963 / 943 252 353
+                  </p>
                 </div>
               </div>
               <p className="text-gray-600 text-sm">

@@ -53,16 +53,16 @@ export default function Home() {
         "Excelente serviço! Meu iPhone está protegido há 2 anos e continua perfeito.",
     },
     {
-      name: "João Silva",
-      role: "Engenheiro",
-      content:
-        "Profissionais competentes e material de primeira qualidade. Recomendo!",
-    },
-    {
       name: "Ana Costa",
       role: "Advogada",
       content:
         "Atendimento personalizado e resultado impecável. Voltarei sempre!",
+    },
+    {
+      name: "Silvestre Dourado",
+      role: "Engenheiro Informático",
+      content:
+        "O meu velho Samsung recebeu uma garantia extendida de vida. Recomendo muito.",
     },
   ];
 
@@ -80,7 +80,7 @@ export default function Home() {
             className="text-center mb-16"
           >
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">
-              Por Que Escolher AW Elite Shielding?
+              Por Que Escolher AW Elite Protection?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Combinamos tecnologia de ponta com experiência profissional para
