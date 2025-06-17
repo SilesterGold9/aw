@@ -60,7 +60,12 @@ export default function ContatoPage() {
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">Email</h3>
-                  <p className="text-gray-600 text-sm">info@awprotect.com</p>
+                  <p className="text-gray-600 text-sm">
+                    wilkersantos472@gmail.com
+                  </p>
+                  <p className="text-gray-600 text-sm">
+                    adelmomtmt16@gmail.com
+                  </p>
                 </div>
               </div>
               <p className="text-gray-600 text-sm ">

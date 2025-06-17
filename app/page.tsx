@@ -191,7 +191,7 @@ export default function Home() {
               O Que Nossos Clientes Dizem
             </h2>
             <p className="text-xl text-gray-600">
-              Depoimentos reais de quem confia na AW Elite Shielding
+              Depoimentos reais de quem confia na AW Elite Protection
             </p>
           </motion.div>
 
