@@ -7,7 +7,7 @@ import { Analytics } from "@vercel/analytics/next";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AW Elite Shielding - Blindagem Premium de Celulares",
+  title: "AW Elite Protection - Blindagem Premium de Celulares",
   description:
     "Proteja seu dispositivo com a melhor tecnologia de blindagem para celulares. Serviços profissionais de Adelmo e Wilker.",
 };
