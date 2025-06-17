@@ -86,6 +86,17 @@ const Footer = () => {
           <p className="text-gray-300">
             © 2025 AW Elite Protection. Todos os direitos reservados.
           </p>
+          <p className="text-gray-300 text-sm mt-2">
+            Made by{" "}
+            <a
+              href="https://github.com/SilesterGold9"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition-colors"
+            >
+              Silvestre Dourado
+            </a>
+          </p>
         </div>
       </div>
     </footer>

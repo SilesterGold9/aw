@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { ArrowLeft, Mail, Phone, MessageCircle, Clock } from "lucide-react";
 import Link from "next/link";
-import Navigation from "../components/Navbar";
 
 export default function ContatoPage() {
   return (

@@ -10,7 +10,7 @@ import {
   ArrowRight,
 } from "lucide-react";
 import Hero from "./components/Hero";
-import { Card, CardContent, CardHeader } from "./components/ui/Card";
+import { Card, CardContent } from "./components/ui/Card";
 import Button from "./components/ui/Button";
 import Link from "next/link";
 
@@ -18,7 +18,7 @@ export default function Home() {
   const features = [
     {
       icon: Shield,
-      title: "Proteção Máxima",
+      title: "Proteção Absoluta",
       description:
         "Blindagem de alta qualidade que protege contra quedas, riscos e impactos.",
     },

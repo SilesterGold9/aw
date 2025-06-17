@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { ArrowLeft, Target, Lightbulb, Award, Users } from "lucide-react";
 import Link from "next/link";
-import Navigation from "../components/Navbar";
 
 export default function SobrePage() {
   return (
