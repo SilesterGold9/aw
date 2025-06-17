@@ -18,7 +18,7 @@ export default function ContatoPage() {
           >
             <Link
               href="/"
-              className="flex items-center text-[#FFDFAF] hover:text-[#E6C97A] transition-colors mr-4 dark:text-[#FFDFAF] dark:hover:text-[#E6C97A]"
+              className="flex items-center text-[#FFDFAF] hover:text-[#E6C97A] transition-colors mr-4 "
             >
               <ArrowLeft className="w-6 h-6" />
             </Link>
@@ -37,7 +37,7 @@ export default function ContatoPage() {
             <h2 className="text-3xl font-bold  text-gray-900">
               Entre em Contato
             </h2>
-            <p className="text-gray-600 text-lg leading-relaxed dark:text-[#e6d7b0]">
+            <p className="text-gray-600 text-lg leading-relaxed ">
               Estamos aqui para ajudar! Se você tem dúvidas sobre nossos
               produtos, precisa de assistência com um pedido, ou simplesmente
               quer saber mais sobre blindagem de telefone, estamos prontos para

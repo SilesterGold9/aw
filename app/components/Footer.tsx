@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="h-8 w-8 text-[#e1d2b0]" />
-              <span className="text-xl font-bold">AW Elite Shielding</span>
+              <span className="text-xl font-bold">AW Elite Protection</span>
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               Proteção premium para seus dispositivos móveis. Tecnologia de
@@ -69,7 +69,7 @@ const Footer = () => {
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-white-500" />
                 <span className="text-[#f0dcb3]">
-                  info@aweliteshielding.com
+                  info@aweliteprotection.com
                 </span>
               </li>
               <li className="flex items-center space-x-2">
@@ -82,7 +82,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2025 AW Elite Shielding. Todos os direitos reservados.
+            © 2025 AW Elite Protection. Todos os direitos reservados.
           </p>
         </div>
       </div>

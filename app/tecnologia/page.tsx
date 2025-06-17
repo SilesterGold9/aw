@@ -291,10 +291,10 @@ export default function Tecnologia() {
                 <Award className="h-12 w-12 text-yellow-400" />
                 <div>
                   <div className="text-lg font-semibold">
-                    Certificação Internacional
+                    Confiança de nível Premium
                   </div>
                   <div className="text-blue-200">
-                    Padrões mundiais de qualidade
+                    Padrões rigorosos de qualidade
                   </div>
                 </div>
               </div>
@@ -323,7 +323,7 @@ export default function Tecnologia() {
               </div>
               <div className="bg-white/10 backdrop-blur-sm rounded-xl p-6 text-center">
                 <Microscope className="h-8 w-8 text-blue-200 mx-auto mb-3" />
-                <div className="text-2xl font-bold mb-1">10+</div>
+                <div className="text-2xl font-bold mb-1">5+</div>
                 <div className="text-sm text-blue-200">Anos de Pesquisa</div>
               </div>
             </motion.div>
