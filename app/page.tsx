@@ -206,7 +206,7 @@ export default function Home() {
                 <Card className="h-full">
                   <CardContent className="pt-6">
                     <p className="text-gray-600 mb-6 italic">
-                      "{testimonial.content}"
+                      &ldquo;{testimonial.content}&rdquo;
                     </p>
                     <div className="border-t pt-4">
                       <div className="font-semibold text-gray-900">
@@ -235,27 +235,19 @@ export default function Home() {
             <h2 className="text-3xl lg:text-4xl font-bold text-white mb-6">
               Pronto para Proteger Seu Dispositivo?
             </h2>
-            <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              Entre em contato conosco hoje mesmo e descubra como podemos
-              proteger seu celular com a melhor tecnologia de blindagem
-              disponível.
+            <p className="text-xl text-blue-100 mb-6">
+              Entre em contato agora mesmo e descubra qual solução é ideal para
+              você.
             </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link href="/contato">
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="bg-white text-blue-600 hover:bg-gray-50 border-white"
-                >
-                  Solicitar Orçamento Gratuito
-                </Button>
-              </Link>
-              <Link href="/sobre">
-                <Button size="lg" className="bg-blue-700 hover:bg-blue-800">
-                  Conhecer a Empresa
-                </Button>
-              </Link>
-            </div>
+            <Link href="/contato">
+              <Button
+                variant="outline"
+                size="lg"
+                className="text-blue-800 border-white hover:bg-white hover:text-blue-600 transition"
+              >
+                Fale Conosco
+              </Button>
+            </Link>
           </motion.div>
         </div>
       </section>
