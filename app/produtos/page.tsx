@@ -6,7 +6,6 @@ import {
   Star,
   CheckCircle,
   Smartphone,
-  Droplets,
   Glasses,
   LucideSmartphoneNfc,
 } from "lucide-react";
